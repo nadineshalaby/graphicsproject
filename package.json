@@ -1,0 +1,21 @@
+{
+  "name": "seascene",
+  "version": "1.0.0",
+  "description": "sea",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "nadine",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "latest",
+    "express.io": "latest",
+    "express": "latest"
+  },
+  "engines": {
+    "node": "14.15.0"
+  },
+  "repository": {
+    "type": "git"
+  }
+}
